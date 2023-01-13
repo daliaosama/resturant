@@ -1,0 +1,13 @@
+#side{
+    margin-top: 3%;
+    display: inline-flex;
+    flex-direction: row;
+    width:100%;
+}
+#middle{
+    width:100%;
+}
+.row{
+    margin-top:-3%;
+    margin-left:0%;
+}

@@ -1,0 +1,8 @@
+#side{
+    display: none;
+}
+.row
+{
+    flex-wrap: wrap;
+    /* width:100%; */
+}
